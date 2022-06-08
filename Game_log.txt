@@ -1,0 +1,104 @@
+This is the First Floor of the Dungeon. 
+ On this floor all the adventures get to pick up a weapon to fight with the goblins.
+You have a sword on the left and Magic Staff on the right.
+Weapon= Sword
+ Welcome! to the second floor.
+It is very dark on this floor, so keep your guard up.
+Goblins are know to attack in the dark. While walking to encounter a low level goblin.
+These creatures are devious, mischievous and pure creatures.
+Killed the goblinThe THIRD FLOOR is not dark, there are lights on this floor. 
+But the floor is full with water which contains Sharks.
+You have two options: 
+	 1. You can choose to buy a boat from the inventory which will cost 5 gold.
+	 2.you can swim in the water where you can loose 1000 hit points as the sharks will bite you.
+	 What do you choose (1/2): 
+Choose option 1At the entrance of the fourth floor there is a Hobgoblin waiting for you.
+This Hobgoblin is at a higher level than the goblin you previously meet.
+There is no way you can run away from him.
+You have to kill him to move ahead.
+Do you want to kill it? (yes/no)
+ User chose to kill the goblin
+ Great!! you have killed a high level Goblin. 
+You are getting an option to pick either:
+1. gold key. 
+2. get 2 healing potion (1,000 each).
+Which one do you choose? (1/2): 
+Choose the Gold KeyYou have made it to the FIFTH FLOOR.
+When you enter the floor you see two doors.
+1.Golden door
+2. Normal door.
+Golden door is unlocked by the golden key.
+If you go through this door you will be able to skip the next floor(6th floor).
+There is no Key required to unlock the normal door.
+This door will lead you the next floor.
+Which door do you pick? (Golden/Normal):Used the gold key to open the golden doorGold key pop from the inventoryCongratulations!! You have made it half way through the game.
+The sixth floor is dark and gloomy. The air on the floor smells different. 
+It smells likeee....
+
+You have been ambushed by a Boggart.
+
+You lost 1000 hit points
+Theses are known for attacking adventurers while they are sleeping
+The air contained sleeping gas, to make adventurers sleep which makes it easier for Boggart to attack
+If you defeat the Boggart, you might get gold as a reward.
+You can choose to run away as Boggarts are territorial.
+He will follow you till the end of the floor. You might loose a lot of health.
+Will you attack him or run away? (attack/run):You have defeated the Boggart.
+As a reward you receive 100 Gold
+You lost 1000 Hit Points in the attackWeclome!!
+The 7th floor is a neutral floor where no one will attack you.
+Take your time and rest.
+As a reward for reaching here.
+You can choose:
+1. 100 gold
+2. 1 Healing portion
+Select your reward (1/2): 
+ Choose 100 goldThe Eight Floor has lights, you can see around.
+You have been walking for a while,but you are unable to spot a goblin.
+There is a small house at the one corner of the floor.
+You decide to scout it in the hope of some rewards.
+Inside the house there is a Hogboon goblin, these are friendly goblin who brings luck to you.
+Will you keep him as a friend or wil you kill him for a reward? (friend/reward): 
+ Hogboon choosen as a friend.
+ Congrats! you found a new companion.
+Hogboon are very friendly goblins, they will assist you in the future battles.On the Ninth floor, you find your self in a dark forest.
+There is a footpath which might lead you to the last door.
+You decide to follow it. At a distance you can hear crows crawling.
+Right at the center of the floor you find:
+To the LEFT you see a horde of goblins.
+To the RIGHT you see the goblin king.
+In FORWARD of you there is forest.
+And BEHIND you is the path you came from.
+
+Which path do you choose (Left,Right,forward,Behind): 
+ Picked left
+ WOW now you can call your self a Goblin Slayer.
+That was a lot of Goblins to take on at once.
+That result in loss of hit points by 3000.
+As a reward for defeating them you get 3 Healing portion.
+You can access healing potion from the menu at the top of the screen. CLICK on "HEAL" .
+ Welcome to the second last floor of the dungeon.
+There is Treasure on the floor below this.
+As you are going downstairs. A dragon is at the door to welcome you.
+With its first fire breath you loose 1000 health.
+That was so quick you were unable to react.
+The dragon has a health of 10,000.
+Do you want to attack the dragon? (yes/no): 
+ Adventurer chooses to attack the dragon
+ You attack him with the little health you have.
+With few attacks you are able to reduce his health by half but in the process you lose all you health.
+Health=0
+ At a distance you can hear the dragon growling. 
+Slowly you open your eyes and see your friend besides you.
+He has risked his life to heal you completely.
+Dragon's Hit points:
+	Health = 5000.0
+ Health= 10000You are pissed off for loosing your friend.
+Do you want to take revenge by killing the dragon and avenging you friend? (yes/no)
+ Player kills the dragon
+ Congratulations!!
+
+You have found the treasure
+You have completed the objective of the game.
+Do you want to exit? (yes/no): 
+ Entered yes to exit 
